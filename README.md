@@ -6,4 +6,5 @@ This is a Laravel/Vue/Vuex Starter Project Which Contains as Follows: <br />
 -- Register <br />
 -- Logout <br />
 -- CheckAuth <br />
+This Project Uses Vue & Vuex & Vue-Router & Laravel API For Backend <br />
 ## Build Something Great! 🔥
